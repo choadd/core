@@ -14,6 +14,8 @@ public class OrderServiceTest {
     MemberService memberService;
     OrderService orderService;
 
+    test
+
     @BeforeEach
     public void beforeEach(){
         AppConfig appConfig = new AppConfig();
